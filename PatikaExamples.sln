@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteInReverse", "WriteInReverse\WriteInReverse.csproj", "{E509B607-E44F-47C7-A0B9-0625D703FE11}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{F547EB74-DEBD-4F4B-8D90-0269B20110EB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{F547EB74-DEBD-4F4B-8D90-0269B20110EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B4437D1-D6DE-4B56-8F88-6F2D17FCE651} = {F547EB74-DEBD-4F4B-8D90-0269B20110EB}
+		{3C94C3AF-E532-4D89-AB45-9C955431D279} = {F547EB74-DEBD-4F4B-8D90-0269B20110EB}
+		{3DAAA7ED-593B-45DB-A87A-63791B0432D8} = {F547EB74-DEBD-4F4B-8D90-0269B20110EB}
+		{E509B607-E44F-47C7-A0B9-0625D703FE11} = {F547EB74-DEBD-4F4B-8D90-0269B20110EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4ECD3E66-3E83-4D25-9ABA-582C1F1EC3FE}
