@@ -22,7 +22,6 @@ namespace Algorithm
                 Console.WriteLine("Verilen sayı bölünecek ifadenin uzunluğundan büyük olamaz!");
                 Console.ReadKey();
             }
-            //input=input.Remove(numb2);
            
             StringBuilder stringBuilder = new StringBuilder(input);
 
