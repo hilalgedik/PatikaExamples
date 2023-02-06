@@ -7,17 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciAverage", "Fibonac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawing", "Drawing\Drawing.csproj", "{3C94C3AF-E532-4D89-AB45-9C955431D279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{3DAAA7ED-593B-45DB-A87A-63791B0432D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algorithm.csproj", "{3DAAA7ED-593B-45DB-A87A-63791B0432D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteInReverse", "WriteInReverse\WriteInReverse.csproj", "{E509B607-E44F-47C7-A0B9-0625D703FE11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteInReverse", "WriteInReverse\WriteInReverse.csproj", "{E509B607-E44F-47C7-A0B9-0625D703FE11}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{F547EB74-DEBD-4F4B-8D90-0269B20110EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{B4D382A7-A1F5-4589-B990-3A6F4BB04048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculation", "AreaCalculation\AreaCalculation.csproj", "{3DF6D8C8-0C84-417E-B13A-7442B593024B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculation", "AreaCalculation\AreaCalculation.csproj", "{3DF6D8C8-0C84-417E-B13A-7442B593024B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{1E1EEFCE-EEE9-4386-9C52-B22EEC083175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{1E1EEFCE-EEE9-4386-9C52-B22EEC083175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeASquare", "TakeASquare\TakeASquare.csproj", "{F814E658-26D1-4529-8F98-E9DCE97D05E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{1E1EEFCE-EEE9-4386-9C52-B22EEC083175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E1EEFCE-EEE9-4386-9C52-B22EEC083175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E1EEFCE-EEE9-4386-9C52-B22EEC083175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F814E658-26D1-4529-8F98-E9DCE97D05E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F814E658-26D1-4529-8F98-E9DCE97D05E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F814E658-26D1-4529-8F98-E9DCE97D05E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F814E658-26D1-4529-8F98-E9DCE97D05E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{E509B607-E44F-47C7-A0B9-0625D703FE11} = {F547EB74-DEBD-4F4B-8D90-0269B20110EB}
 		{3DF6D8C8-0C84-417E-B13A-7442B593024B} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
 		{1E1EEFCE-EEE9-4386-9C52-B22EEC083175} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
+		{F814E658-26D1-4529-8F98-E9DCE97D05E5} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4ECD3E66-3E83-4D25-9ABA-582C1F1EC3FE}
