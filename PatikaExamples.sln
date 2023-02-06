@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeASquare", "TakeASquare\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCharacter", "ChangeCharacter\ChangeCharacter.csproj", "{3B90F68E-CE6A-4380-9039-8D473C263966}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consonant", "Consonant\Consonant.csproj", "{16750977-B894-4D70-A4B5-4B319AA7DCAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{3B90F68E-CE6A-4380-9039-8D473C263966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B90F68E-CE6A-4380-9039-8D473C263966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B90F68E-CE6A-4380-9039-8D473C263966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16750977-B894-4D70-A4B5-4B319AA7DCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16750977-B894-4D70-A4B5-4B319AA7DCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16750977-B894-4D70-A4B5-4B319AA7DCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16750977-B894-4D70-A4B5-4B319AA7DCAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{1E1EEFCE-EEE9-4386-9C52-B22EEC083175} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
 		{F814E658-26D1-4529-8F98-E9DCE97D05E5} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
 		{3B90F68E-CE6A-4380-9039-8D473C263966} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
+		{16750977-B894-4D70-A4B5-4B319AA7DCAD} = {B4D382A7-A1F5-4589-B990-3A6F4BB04048}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4ECD3E66-3E83-4D25-9ABA-582C1F1EC3FE}
