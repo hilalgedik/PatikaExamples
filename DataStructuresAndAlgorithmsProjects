@@ -7,4 +7,4 @@ Project 1;
 [2,6,16,22,18,27] n-2
 [2,6,16,18,22,27] n-3   
 Big-O notation = O(n^2)
-
+18 -> Average case
